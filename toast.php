@@ -14,10 +14,6 @@ Author: Brux
 Version: 0.2
 */
 
-function d($var) {
-    echo '<pre>'; var_dump($var); echo '</pre>';
-}
-
 /**
  * Sets the default options (if they aren't set yet) on
  * plugin activation.
